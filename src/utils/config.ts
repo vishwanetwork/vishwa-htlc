@@ -1,0 +1,1 @@
+export const RPC_URL = "https://go.getblock.io/4512aab0372b4250ad9a033701d687d4";

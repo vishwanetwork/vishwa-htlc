@@ -1,0 +1,26 @@
+{
+  "name": "hltc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "z3902668",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "6.1.6",
+    "bitcoinjs-message": "^2.2.0",
+    "dotenv-cli": "^7.4.2",
+    "ecpair": "2.1.0",
+    "tiny-secp256k1": "^2.2.3",
+    "typescript": "^5.6.3",
+    "varuint-bitcoin": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.1"
+  }
+}

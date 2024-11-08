@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lock": "npx tsx ./src/lock.ts",
+    "unlock": "npx tsx ./src/unlock.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "z3902668",
+  "author": "liamvishwa",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.7",
